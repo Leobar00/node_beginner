@@ -1,0 +1,22 @@
+{
+  "name": "node_beginner",
+  "version": "1.0.0",
+  "description": "Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leobar00/node_beginner.git"
+  },
+  "author": "Leonardo Barbieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leobar00/node_beginner/issues"
+  },
+  "homepage": "https://github.com/Leobar00/node_beginner#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
