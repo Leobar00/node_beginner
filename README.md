@@ -1,2 +1,2 @@
 # node_beginner
-Small exercise for learn Node js
+Small exercise for learn Node js;
